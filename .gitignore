@@ -30,7 +30,7 @@ migrate_working_dir/
 .packages
 .pub-cache/
 .pub/
-/build/
+# /build/  # Uncomment this to ignore build outputs if using GitHub Actions
 
 # Symbolication related
 app.*.symbols
